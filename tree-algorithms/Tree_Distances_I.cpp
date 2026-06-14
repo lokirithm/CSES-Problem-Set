@@ -11,7 +11,6 @@ Key points to note in this problem:
     diameter of the tree. If it is not, it either lies closer
     to one of the endpoints or is the other endpoint itself.
 
-
  3. We can find the diameter of the tree by performing
     two DFS traversals. The first DFS will find the farthest node
     from an arbitrary node (This node will be one of the endpoints

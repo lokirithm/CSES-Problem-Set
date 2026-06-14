@@ -1,5 +1,5 @@
 /*
-    Another simplerer approach is even more identical to the second method of Distance queries.
+    Another simpler approach is even more identical to the second method of Distance queries.
 
 PROBLEM:
     Find the distance between any two arbitrary nodes in a tree.
